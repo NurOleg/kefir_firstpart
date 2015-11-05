@@ -112,3 +112,10 @@ a {
         margin-bottom: 140px;
     }
 }
+.navbar-right li{
+    display: inline-block;
+    padding: 0 35px 0;
+}
+.navbar-right li span{
+    padding-top: 17px;
+}
