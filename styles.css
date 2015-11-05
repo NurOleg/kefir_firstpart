@@ -119,3 +119,13 @@ a {
 .navbar-right li span{
     padding-top: 17px;
 }
+.my_heading{
+    background-color: #f5f5f5;
+}
+.my_heading h2{
+    margin-left: 1%;
+}
+.my_heading small{
+    vertical-align: top;
+    margin-left: 1%;
+}
